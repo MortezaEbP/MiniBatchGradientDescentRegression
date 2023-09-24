@@ -1,5 +1,5 @@
 # MiniBatchGradientDescentRegression
-# Mini-Batch Gradient Descent Regression
+
 ### The MiniBatchGDRegression class is an implementation of linear regression using the mini-batch gradient descent optimization algorithm. Linear regression is a fundamental supervised learning technique used to model the relationship between a dependent variable and one or more independent variables. It aims to find the best-fitting linear equation through the data points to make predictions.
 ## Mathematical Formulation:
 ### In linear regression, the relationship between the dependent variable y and the independent variables (features) X is represented as:
